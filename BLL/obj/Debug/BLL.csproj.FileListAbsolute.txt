@@ -1,0 +1,119 @@
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\BLL.dll.config
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\BLL.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\BLL.pdb
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\DLL.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.MVC.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\DLL.pdb
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\DLL.dll.config
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\obj\Debug\BLL.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\BLL\obj\Debug\BLL.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\BLL.dll.config
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\BLL.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\BLL.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\AutoMapper.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\DLL.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.MVC.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Mvc.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.Helpers.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.Mvc.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.Razor.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\DLL.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\DLL.dll.config
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\AutoMapper.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\AutoMapper.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\Ninject.Web.Mvc.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.Helpers.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.Mvc.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.Razor.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\obj\Debug\BLL.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\BLL\obj\Debug\BLL.pdb
+D:\repos\Курсач\BLL\bin\Debug\BLL.dll.config
+D:\repos\Курсач\BLL\bin\Debug\BLL.dll
+D:\repos\Курсач\BLL\bin\Debug\BLL.pdb
+D:\repos\Курсач\BLL\bin\Debug\AutoMapper.dll
+D:\repos\Курсач\BLL\bin\Debug\DLL.dll
+D:\repos\Курсач\BLL\bin\Debug\EntityFramework.dll
+D:\repos\Курсач\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\Курсач\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\repos\Курсач\BLL\bin\Debug\Ninject.dll
+D:\repos\Курсач\BLL\bin\Debug\Ninject.MVC.dll
+D:\repos\Курсач\BLL\bin\Debug\Ninject.Web.Common.dll
+D:\repos\Курсач\BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+D:\repos\Курсач\BLL\bin\Debug\Ninject.Web.Mvc.dll
+D:\repos\Курсач\BLL\bin\Debug\System.Web.Helpers.dll
+D:\repos\Курсач\BLL\bin\Debug\System.Web.Mvc.dll
+D:\repos\Курсач\BLL\bin\Debug\System.Web.Razor.dll
+D:\repos\Курсач\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\repos\Курсач\BLL\bin\Debug\System.Web.WebPages.dll
+D:\repos\Курсач\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\repos\Курсач\BLL\bin\Debug\DLL.pdb
+D:\repos\Курсач\BLL\bin\Debug\DLL.dll.config
+D:\repos\Курсач\BLL\bin\Debug\AutoMapper.pdb
+D:\repos\Курсач\BLL\bin\Debug\AutoMapper.xml
+D:\repos\Курсач\BLL\bin\Debug\EntityFramework.xml
+D:\repos\Курсач\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\Курсач\BLL\bin\Debug\Ninject.xml
+D:\repos\Курсач\BLL\bin\Debug\Ninject.Web.Common.xml
+D:\repos\Курсач\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+D:\repos\Курсач\BLL\bin\Debug\Ninject.Web.Mvc.xml
+D:\repos\Курсач\BLL\bin\Debug\System.Web.Helpers.xml
+D:\repos\Курсач\BLL\bin\Debug\System.Web.Mvc.xml
+D:\repos\Курсач\BLL\bin\Debug\System.Web.Razor.xml
+D:\repos\Курсач\BLL\bin\Debug\System.Web.WebPages.xml
+D:\repos\Курсач\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\repos\Курсач\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\repos\Курсач\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\repos\Курсач\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\repos\Курсач\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\repos\Курсач\BLL\obj\Debug\BLL.dll
+D:\repos\Курсач\BLL\obj\Debug\BLL.pdb

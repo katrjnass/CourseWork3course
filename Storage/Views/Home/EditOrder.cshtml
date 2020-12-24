@@ -1,0 +1,25 @@
+﻿@model WEB.Models.OrderViewModel
+
+
+@{
+    ViewBag.Title = "EditOrder";
+}
+
+
+
+@using (Html.BeginForm("EditOrder", "Home", FormMethod.Post))
+{
+    <fieldset>
+        @Html.HiddenFor(model => model.GoodsId)
+
+        <p>
+            @Html.LabelFor(m => m.Form, "Form or gon't form")
+            <br />
+            @Html.EditorFor(m => m.Form)
+        </p>
+        <p><input type="submit" value="Відправити" /></p>
+    </fieldset>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

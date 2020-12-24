@@ -1,0 +1,44 @@
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\DLL.dll.config
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\DLL.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\DLL.pdb
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\AutoMapper.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\AutoMapper.pdb
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\AutoMapper.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\obj\Debug\DLL.csproj.CopyComplete
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\obj\Debug\DLL.dll
+C:\Users\Aleksander Chmeruk\Desktop\StorageKursach\Storage\DLL\obj\Debug\DLL.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\DLL.dll.config
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\DLL.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\DLL.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\AutoMapper.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\AutoMapper.pdb
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\AutoMapper.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\obj\Debug\DLL.csproj.CopyComplete
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\obj\Debug\DLL.dll
+D:\repos\Курсач\Курсач\StorageKursach\Storage\DLL\obj\Debug\DLL.pdb
+D:\repos\Курсач\DLL\bin\Debug\DLL.dll.config
+D:\repos\Курсач\DLL\bin\Debug\DLL.dll
+D:\repos\Курсач\DLL\bin\Debug\DLL.pdb
+D:\repos\Курсач\DLL\bin\Debug\AutoMapper.dll
+D:\repos\Курсач\DLL\bin\Debug\EntityFramework.dll
+D:\repos\Курсач\DLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\Курсач\DLL\bin\Debug\AutoMapper.pdb
+D:\repos\Курсач\DLL\bin\Debug\AutoMapper.xml
+D:\repos\Курсач\DLL\bin\Debug\EntityFramework.xml
+D:\repos\Курсач\DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\Курсач\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+D:\repos\Курсач\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\repos\Курсач\DLL\obj\Debug\DLL.csproj.CopyComplete
+D:\repos\Курсач\DLL\obj\Debug\DLL.dll
+D:\repos\Курсач\DLL\obj\Debug\DLL.pdb

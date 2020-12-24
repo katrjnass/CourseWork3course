@@ -1,0 +1,74 @@
+﻿@model IEnumerable<WEB.Models.OrderViewModel>
+
+    @{
+        ViewBag.Title = "MyGoods";
+    }
+
+    <h2>My goods</h2>
+
+    <table class="table">
+        <tr>
+            @*<th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoodsId)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Form)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoodsName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoodsPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoodsCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoodsDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoodsId)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.GoodsName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoodsPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoodsCount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Form)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoodsDate)
+        </td>
+        <td>
+            @Html.ActionLink("Form", "EditOrder", new { id = item.Id })
+        </td>
+
+    </tr>
+        }
+
+    </table>
+
+
